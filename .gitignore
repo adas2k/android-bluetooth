@@ -1,0 +1,15 @@
+*.apk
+*.ap_
+
+*.dex
+
+library/bin/
+library/gen/
+library.local.properties
+
+library/.classpath
+library/.project
+library/.settings
+library/lint.xml
+
+
